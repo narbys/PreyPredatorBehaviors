@@ -2,7 +2,7 @@
 This project looks at the behaviors of animals related to hunting prey or fleeing from predators. Whereafter they could be put into an Artificial Intelligence to simulate these behaviors.
 
 # Animals and senses
-Animals have many ways to perceive the world, some more straightforward than others. One of these most important factors is their vision, more specifically related to this topic: their Field of View. Predators typically have front facing eyes, where the vision of each individual eye overlaps more. The overlapping part results in depth perception. This depth perception is highly useful in hunting prey. The prey themselves on the other hand have eyes on the side, so they have a very wide view range. This allows them to see predators coming from all sides making it easier to flee on time. The predator's type of vision is called Binocular vision, the prey's kind is called Monocular vision. 
+Animals have many ways to perceive the world, some more straightforward than others. One of these most important factors is their vision, more specifically related to this topic: their Field of View. Predators typically have front facing eyes, where the vision of each individual eye overlaps more. The overlapping part results in depth perception. This depth perception is highly useful in hunting prey. The prey themselves on the other hand have eyes on the side, so they have a very wide view range. This allows them to see predators coming from all sides making it easier to flee on time. The overlapping type of vision is called Binocular vision, the non overlapping kind is called Monocular vision. 
 
 ![Image of comparison between predator and prey field of view](https://cdn.discordapp.com/attachments/648302031404269588/798980169447637052/unknown.png)
 
