@@ -27,6 +27,7 @@ When a rabbit notices a predator trying to attack them, they will try to flee to
 Of course, the goal of this is to put these behaviors into an AI. For this part, I chose to use the Unity Engine since it seemed the easiest to use for the purposes of this project.
 
 As of now, I don't stand very far with my implementation. The rabbit runs from the fox and both wander around, but that's about it. The content of this may or may not improve in the future.
+Except for that, there's also a lot of factors influencing the behavior of animals making it more complicated to simulate than initially expected
 
 ### Sources
 > https://northamericannature.com/how-do-foxes-navigate/ - Article about foxes
