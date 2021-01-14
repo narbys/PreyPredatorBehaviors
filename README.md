@@ -28,7 +28,8 @@ Of course, the goal of this is to put these behaviors into an AI. For this part,
 
 What I have at the moment is an FOV script, which can be applied to an object as eye where you can then customise the angle.
 As of now, I don't stand very far with my implementation. The rabbit runs from the fox and both wander around, but that's about it. The content of this may or may not improve in the future.
-Except for that, there's also a lot of factors influencing the behavior of animals making it more complicated to simulate than initially expected
+Except for that, there's also a lot of factors influencing the behavior of animals making it more complicated to simulate than initially expected.
+
 ![picture of fov](https://cdn.discordapp.com/attachments/648302031404269588/799293773897007174/unknown.png)
 
 ### Sources
